@@ -27,6 +27,3 @@ const galleryHTML = galleryItems
 
 gallery.innerHTML = galleryHTML;
 
-
-
-
